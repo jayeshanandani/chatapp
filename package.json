@@ -28,7 +28,7 @@
     "aws-amplify": "2.2.5",
     "aws-amplify-react-native": "3.2.3",
     "aws-sdk": "2.649.0",
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "formik": "2.1.4",
     "graphql-tag": "2.10.3",
     "libphonenumber-js": "1.7.49",
