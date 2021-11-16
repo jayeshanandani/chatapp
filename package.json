@@ -27,7 +27,7 @@
     "apollo-link-http": "1.5.17",
     "aws-amplify": "2.2.5",
     "aws-amplify-react-native": "3.2.3",
-    "aws-sdk": "2.649.0",
+    "aws-sdk": "2.814.0",
     "axios": "0.19.2",
     "formik": "2.1.4",
     "graphql-tag": "2.10.3",
